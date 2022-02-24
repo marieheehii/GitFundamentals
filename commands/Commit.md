@@ -17,7 +17,7 @@ Then when veiwing the history of the repository, you can pinpoint where the regi
 
 ## Resources
 
-- [Git Init Documentation](https://git-scm.com/docs/git-commit)
+- [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 
 ---
 

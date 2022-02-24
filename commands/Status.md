@@ -17,4 +17,10 @@ git push
 git status
 ```
 
-## 
+## Resources
+
+- [Git Status Documentation](https://git-scm.com/docs/git-status)
+
+---
+
+[Back to home](../README.md)

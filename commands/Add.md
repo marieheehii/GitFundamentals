@@ -12,7 +12,7 @@ You can specify tracking directories with `git add DirectoryName`.
 
 ## Resources
 
-- [Git Init Documentation](https://git-scm.com/docs/git-add)
+- [Git Add Documentation](https://git-scm.com/docs/git-add)
 
 ---
 
